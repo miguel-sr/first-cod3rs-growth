@@ -1,9 +1,9 @@
-Usage
+FRC
 =====
 
-.. _installation:
+.. _introducao:
 
-Installation
+Introdução
 ------------
 
 To use Lumache, first install it using pip:

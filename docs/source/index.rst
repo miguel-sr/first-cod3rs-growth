@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
+Bem-vindo a documentação do FIRST Cod3rs Growth!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**FIRST Cod3rs Growth** é um projeto com o objetivo de capacitar
+programadores iniciantes na FIRST Tech Challenge e FIRST Robotics Competition.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Confira as documentações para :doc:`FTC` e :doc:`FRC`.
 
 .. note::
 
-   This project is under active development.
+   Esse projeto está em desenvolvimento
 
-Contents
+Conteúdo
 --------
 
 .. toctree::
 
-   usage
-   api
+   FTC
+   FRC
