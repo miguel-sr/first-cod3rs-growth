@@ -23,6 +23,6 @@ Sed at purus tristique, sodales urna sed, sagittis diam. Maecenas tempus elit at
 Phasellus sodales tempus dui, quis porttitor dui lobortis at.
 
 .. toctree::
-   :maxdepth: 2
+   :hidden:
 
    /FRC/mapa-aprendizado

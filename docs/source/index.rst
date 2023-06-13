@@ -10,10 +10,8 @@ Confira as documentações para :doc:`FTC/index` e :doc:`FRC/index`.
 
    Esse projeto está em desenvolvimento
 
-Conteúdo
---------
-
 .. toctree::
+   :hidden:
 
    FTC/index
    FRC/index
