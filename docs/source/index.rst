@@ -1,10 +1,10 @@
 Bem-vindo a documentação do FIRST Cod3rs Growth!
-===================================
+================================================
 
 **FIRST Cod3rs Growth** é um projeto com o objetivo de capacitar
 programadores iniciantes na FIRST Tech Challenge e FIRST Robotics Competition.
 
-Confira as documentações para :doc:`FTC` e :doc:`FRC`.
+Confira as documentações para :doc:`FTC/index` e :doc:`FRC/index`.
 
 .. note::
 
@@ -15,5 +15,5 @@ Conteúdo
 
 .. toctree::
 
-   FTC
-   FRC
+   FTC/index
+   FRC/index
